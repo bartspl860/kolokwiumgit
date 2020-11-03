@@ -7,4 +7,5 @@ prostaWersja
 
 dasd das
 =======
+zmiana klon
 
