@@ -1,2 +1,6 @@
 Zmiana 1
 Zmiana naprawa
+=======
+Zmiana 2
+Zmiana 3
+prostaWersja
